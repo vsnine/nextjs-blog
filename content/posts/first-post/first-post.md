@@ -14,5 +14,5 @@ I use Cloudflare in my day job as well as for personal projects. Learning how th
 
 It seems like it has been a million years since I last tried to write a blog, we'll see how this goes :)
 
-Cat tax:
-![Cat](cat.jpg)
+Dog tax:
+![Dog](dog.jpg)
