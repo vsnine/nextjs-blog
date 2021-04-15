@@ -1,15 +1,15 @@
 {
   "siteMetadata": {
-    "title": "Next.js Starter Blog",
+    "title": "vsnine.org",
     "author": {
-      "name": "Jose Felix",
-      "summary": "who works building clean user interfaces with React."
+      "name": "Joshua Becigneul",
+      "summary": "a technologist always learning. he/him"
     },
     "description": "A blog created with Next.js and Tailwind.css",
-    "siteUrl": "https://nextjs-starter-blog-demo.netlify.app/",
+    "siteUrl": "https://vsnine.org/",
     "language": "en-US",
     "social": {
-      "twitter": "Jose_R_Felix"
+      "twitter": "vsnine"
     }
   }
 }
