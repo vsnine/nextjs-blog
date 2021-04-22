@@ -8,14 +8,14 @@ date: 2021-04-22T12:00:00.000Z
 
 Thought I'd write down a few notes of the highlights of attending F5's conference, Agility, which is now in its second virtual year due to COVID-19.
 
-I attended in a few years ago when it was in Chicago, which was a cool experience to meet a bunch of F5ers in person. This time the interactions are a little more limited to the session chat rooms, lab working sessions, and the daily hangouts with the DevCentral team of Jason, John, and Peter.
+I attended a few years ago when it was in Chicago, which was a cool experience to meet a bunch of F5ers in person. This time the interactions are a little more limited to the session chat rooms, lab working sessions, and the daily hangouts with the DevCentral team of Jason, John, and Peter.
 
 They have a ton to bring to the table with their acquisitions of NGINX, Shape, and Volterra. There has been a mix of live streams, pre-recorded demos, and lab sessions.
 
 ## Wanna go FASTer?
 My highlight of the con so far has been getting my hands on a live lab demo of the [vscode-f5](https://f5devcentral.github.io/vscode-f5) plugin, which will help administrators who want to deploy their F5 configuration as code! 
 
-It is hosted on the f5devcentral github and is a free extension to Visual Studio Code. It will work in the remote versions of VSCode over SSH, as well as in the web-based ```code-server``` deployment.
+It is hosted on the f5devcentral github and is a free extension to Visual Studio Code. It will work in the remote versions of VSCode over SSH, as well as in the web-based `code-server` deployment.
 
 I had looked at an early version last year, but couldn't use it at the time. Coming back to it after the team at F5 has put in a ton of work was a nice surprise. Today, the module has support for managing F5's various extension plugins, which include:
 
