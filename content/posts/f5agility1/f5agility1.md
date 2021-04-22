@@ -8,9 +8,9 @@ date: 2021-04-22T12:00:00.000Z
 
 Thought I'd write down a few notes of the highlights of attending F5's conference, Agility, which is now in its second virtual year due to COVID-19.
 
-I attended in person a few years ago when it was in Chicago, which was a cool experience to meet a bunch of F5ers in person. This time the interactions are a little more limited to the session chat rooms, lab working sessions, and the daily hangouts with the DevCentral team of Jason, John, and Peter.
+I attended in a few years ago when it was in Chicago, which was a cool experience to meet a bunch of F5ers in person. This time the interactions are a little more limited to the session chat rooms, lab working sessions, and the daily hangouts with the DevCentral team of Jason, John, and Peter.
 
-This time around they have a ton to bring to the table with their acquisitions of NGINX, Shape, and Volterra. There has been a mix of live streams, pre-recorded demos, and lab sessions.
+They have a ton to bring to the table with their acquisitions of NGINX, Shape, and Volterra. There has been a mix of live streams, pre-recorded demos, and lab sessions.
 
 ## Wanna go FASTer?
 My highlight of the con so far has been getting my hands on a live lab demo of the [vscode-f5](https://f5devcentral.github.io/vscode-f5) plugin, which will help administrators who want to deploy their F5 configuration as code! 
